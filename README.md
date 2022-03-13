@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Djeymisson, a Back-end Software Developer always in Development
-- 👀 I’m interested in Java, Spring and some Javascript
+- 👋 Hi, I’m @Djeymisson, a Fullstack Software Developer
+- 👀 I’m interested in Java, Spring and Javascripts frameworks
 - 🌱 I’m currently learning Design Patterns, TDD and some others Software Engineering concepts
 
 <!---
